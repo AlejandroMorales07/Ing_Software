@@ -95,7 +95,7 @@ El prototipo básico simula el flujo funcional del sistema real, incluyendo:
 - Alertas de acceso denegado
 - Panel de navegación por tipo de usuario
 
-🗂️ Archivos disponibles en la carpeta [`prototipo_php/`]
+🗂️ Archivos disponibles en la carpeta [`prototipo/`]
 
 ---
 
