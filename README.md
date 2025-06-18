@@ -37,34 +37,34 @@ Este sistema tiene como propósito garantizar el control seguro, eficiente y aut
 
 ---
 
-## 🗂️ Estructura del Proyecto
+## 📁 Estructura del Proyecto
+
 
 acceso-vehicular-unipamplona/
-│
 ├── Documentos/
-│ ├── Tarea 1 - Modelo Estático.docx
-│ ├── Tarea 2 - Modelo de Comportamiento.docx
-│ ├── Tarea 3 - Prototipo.docx
-│ ├── Tarea 4 - Requisitos de Información.docx
-│ ├── Tarea 5 - Requisitos Funcionales.docx
-│ └── Tarea 6 - Requisitos No Funcionales.docx
+│   ├── Tarea 1 - Modelo Estático.docx
+│   ├── Tarea 2 - Modelo de Comportamiento.docx
+│   ├── Tarea 3 - Prototipo.docx
+│   ├── Tarea 4 - Requisitos de Información.docx
+│   ├── Tarea 5 - Requisitos Funcionales.docx
+│   └── Tarea 6 - Requisitos No Funcionales.docx
 │
 ├── prototipo_php/
-│ ├── index.php
-│ ├── dashboard.php
-│ ├── registrar_vehiculo.php
-│ ├── validar_acceso.php
-│ └── style.css
+│   ├── index.php
+│   ├── dashboard.php
+│   ├── registrar_vehiculo.php
+│   ├── validar_acceso.php
+│   └── style.css
 │
 ├── capturas/
-│ ├── login.png
-│ ├── acceso_permitido.png
-│ └── dashboard_admin.png
+│   ├── login.png
+│   ├── acceso_permitido.png
+│   └── dashboard_admin.png
 │
-├── versionado.md
-├── Contribuciones.md
-├── LICENSE
-└── README.md
+├── versionado.md           # Hoja de versiones del proyecto
+├── Contribuciones.md       # Guía para contribuir al proyecto
+├── LICENSE                 # Licencia MIT
+└── README.md               # Documentación general del proyecto
 
 
 ---
