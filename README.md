@@ -39,29 +39,33 @@ Este sistema tiene como propósito garantizar el control seguro, eficiente y aut
 
 ## 📁 Estructura del Proyecto
 
-
-Drakon-Store-Web-Elicitacion/
-├── Drakon-Store-Base/
-│   ├── style.css            # Estilos principales del sitio
-│   ├── images/Logo.png      # Logo de Drakon Store
+```plaintext
+acceso-vehicular-unipamplona/
 ├── Documentos/
-│   ├── Docs de Tareas Asignadas/
-│   │   ├── Requisitos del Software (DRS) Tarea 1.md
-│   │   ├── Requisitos del Software (DRS) Tarea 2.md
-│   │   ├── Requisitos del Software (DRS) Tarea 3.md
-│   │   ├── Requisitos del Software (DRS) Tarea 4.md
-│   │   ├── Requisitos del Software (DRS) Tarea 5.md
-│   │   ├── Requisitos del Software (DRS) Tarea 6.md
-│   │   └── Corte 3/
-│   │       ├── README-Tarea2-ModeloComportamiento.md   # Resumen Tarea 2: Modelo de comportamiento
-│   │       ├── Desarrollar Prototipos - Tarea 3.md     # Documento Tarea 3: Prototipos
-│   │       ├── ...
-│   ├── versionado.md        # Hoja de versiones
-├── README.md                # Documentación del proyecto
-├── versionado.md            # Hoja de versiones del proyecto
-├── Contribuciones.md        # Guía para contribuir
-├── LICENSE                  # Licencia MIT
-└── Proyecto De Ingenieria Del sofware.docx
+│   ├── Tarea 1 - Modelo Estático.docx
+│   ├── Tarea 2 - Modelo de Comportamiento.docx
+│   ├── Tarea 3 - Prototipo.docx
+│   ├── Tarea 4 - Requisitos de Información.docx
+│   ├── Tarea 5 - Requisitos Funcionales.docx
+│   └── Tarea 6 - Requisitos No Funcionales.docx
+│
+├── prototipo_php/
+│   ├── index.php
+│   ├── dashboard.php
+│   ├── registrar_vehiculo.php
+│   ├── validar_acceso.php
+│   └── style.css
+│
+├── capturas/
+│   ├── login.png
+│   ├── acceso_permitido.png
+│   └── dashboard_admin.png
+│
+├── versionado.md           # Hoja de versiones del proyecto
+├── Contribuciones.md       # Guía para contribuir al proyecto
+├── LICENSE                 # Licencia MIT
+└── README.md               # Documentación general del proyecto
+
 
 
 ---
