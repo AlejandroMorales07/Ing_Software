@@ -56,11 +56,6 @@ acceso-vehicular-unipamplona/
 │   ├── validar_acceso.php
 │   └── style.css
 │
-├── capturas/
-│   ├── login.png
-│   ├── acceso_permitido.png
-│   └── dashboard_admin.png
-│
 ├── versionado.md           # Hoja de versiones del proyecto
 ├── Contribuciones.md       # Guía para contribuir al proyecto
 ├── LICENSE                 # Licencia MIT
