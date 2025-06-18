@@ -66,7 +66,7 @@ acceso-vehicular-unipamplona/
 ├── LICENSE                 # Licencia MIT
 └── README.md               # Documentación general del proyecto
 
-
+```
 
 ---
 
