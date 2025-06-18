@@ -30,10 +30,10 @@ Este sistema tiene como propósito garantizar el control seguro, eficiente y aut
 | Nombre                      | Rol                        |
 |----------------------------|-----------------------------|
 | Kevin Medina               | Analista / Desarrollador    |
-| Asly Acuña                 | Modelado UML / Requisitos   |
-| Alejandro Morales          | Diagramas de comportamiento |
-| Owen Fuentes               | Prototipado funcional        |
-| Erick Usuche               | Validación y soporte técnico|
+| Asly Acuña                 | Analista / Desarrollador    |
+| Alejandro Morales          | Analista / Desarrollador    |
+| Owen Fuentes               | Analista / Desarrollador    |
+| Erick Usuche               | Analista / Desarrollador    |
 
 ---
 
