@@ -7,15 +7,15 @@ El sistema busca automatizar el control de ingreso de vehículos al campus unive
 
 ## 📑 Tabla de Contenidos
 
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Integrantes](#integrantes)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Características y Funcionalidades](#características-y-funcionalidades)
-- [Prototipo PHP](#prototipo-php)
-- [Documentación del Proyecto](#documentación-del-proyecto)
-- [Licencia](#licencia)
-- [Autor y Docente](#autor-y-docente)
+- [Descripción del Proyecto]
+- [Integrantes]
+- [Estructura del Proyecto
+- [Tecnologías Utilizadas]
+- [Características y Funcionalidades]
+- [Prototipo PHP]
+- [Documentación del Proyecto]
+- [Licencia]
+- [Autor y Docente]
 
 ---
 
